@@ -2,10 +2,11 @@
 
 Just for personal use to merge my Strava rides, but can be used to merge any gpx exports.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://strava-merge-gpx.streamlit.app/](https://strava-merge-gpx.streamlit.app/))
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://strava-merge-gpx.streamlit.app/)
 
+### Merge you Strava activities:
 1. Export your GPX files from Strava (possible only through the Strava.com site)
-2. Upload them to the app
+2. Upload them to the [app](https://strava-merge-gpx.streamlit.app/)
 3. Download the results
 4. Upload the merged GPX to Strava
 
